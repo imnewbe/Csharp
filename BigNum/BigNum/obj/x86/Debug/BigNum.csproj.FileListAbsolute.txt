@@ -1,0 +1,4 @@
+c:\users\jianwei\documents\visual studio 2010\Projects\BigNum\BigNum\bin\Debug\BigNum.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\BigNum\BigNum\bin\Debug\BigNum.pdb
+c:\users\jianwei\documents\visual studio 2010\Projects\BigNum\BigNum\obj\x86\Debug\BigNum.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\BigNum\BigNum\obj\x86\Debug\BigNum.pdb

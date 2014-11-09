@@ -1,0 +1,9 @@
+C:\Users\Jianwei\Documents\Visual Studio 2010\Projects\BigNum\BigInt\bin\Debug\BigInt.exe
+C:\Users\Jianwei\Documents\Visual Studio 2010\Projects\BigNum\BigInt\bin\Debug\BigInt.pdb
+C:\Users\Jianwei\Documents\Visual Studio 2010\Projects\BigNum\BigInt\obj\x86\Debug\BigInt.exe
+C:\Users\Jianwei\Documents\Visual Studio 2010\Projects\BigNum\BigInt\obj\x86\Debug\BigInt.pdb
+C:\Users\Jianwei\Documents\Visual Studio 2010\Projects\BigNum\BigInt\obj\x86\Debug\BigInt.csprojResolveAssemblyReference.cache
+F:\课程\课程4\C#\实验二\BigNum\BigInt\obj\x86\Debug\BigInt.exe
+F:\课程\课程4\C#\实验二\BigNum\BigInt\obj\x86\Debug\BigInt.pdb
+D:\Desktop\BigNum\BigInt\obj\x86\Debug\BigInt.exe
+D:\Desktop\BigNum\BigInt\obj\x86\Debug\BigInt.pdb
