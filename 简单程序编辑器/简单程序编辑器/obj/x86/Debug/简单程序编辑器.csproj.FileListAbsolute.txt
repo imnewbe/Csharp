@@ -1,0 +1,27 @@
+c:\users\jianwei\documents\visual studio 2010\Projects\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.FrmChild.resources
+c:\users\jianwei\documents\visual studio 2010\Projects\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.FrmMain.resources
+c:\users\jianwei\documents\visual studio 2010\Projects\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.Properties.Resources.resources
+c:\users\jianwei\documents\visual studio 2010\Projects\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.csproj.GenerateResource.Cache
+c:\users\jianwei\documents\visual studio 2010\Projects\简单程序编辑器\简单程序编辑器\bin\Debug\简单程序编辑器.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\简单程序编辑器\简单程序编辑器\bin\Debug\简单程序编辑器.pdb
+c:\users\jianwei\documents\visual studio 2010\Projects\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.pdb
+C:\Users\Jianwei\Desktop\20141107\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.exe
+C:\Users\Jianwei\Desktop\20141107\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.pdb
+C:\Users\Jianwei\Desktop\20141107\简单程序编辑器\简单程序编辑器\bin\Debug\简单程序编辑器.exe
+C:\Users\Jianwei\Desktop\20141107\简单程序编辑器\简单程序编辑器\bin\Debug\简单程序编辑器.pdb
+C:\Users\Jianwei\Desktop\20141107\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.FrmChild.resources
+C:\Users\Jianwei\Desktop\20141107\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.FrmMain.resources
+C:\Users\Jianwei\Desktop\20141107\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.Properties.Resources.resources
+C:\Users\Jianwei\Desktop\20141107\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.csproj.GenerateResource.Cache
+H:\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.exe
+H:\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.pdb
+H:\简单程序编辑器\简单程序编辑器\bin\Debug\简单程序编辑器.exe
+H:\简单程序编辑器\简单程序编辑器\bin\Debug\简单程序编辑器.pdb
+H:\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.csprojResolveAssemblyReference.cache
+H:\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.FrmChild.resources
+H:\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.FrmMain.resources
+H:\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.Properties.Resources.resources
+H:\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.csproj.GenerateResource.Cache
+D:\Desktop\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.exe
+D:\Desktop\简单程序编辑器\简单程序编辑器\obj\x86\Debug\简单程序编辑器.pdb

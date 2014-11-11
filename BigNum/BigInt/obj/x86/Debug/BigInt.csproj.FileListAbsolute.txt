@@ -7,3 +7,5 @@ F:\课程\课程4\C#\实验二\BigNum\BigInt\obj\x86\Debug\BigInt.exe
 F:\课程\课程4\C#\实验二\BigNum\BigInt\obj\x86\Debug\BigInt.pdb
 D:\Desktop\BigNum\BigInt\obj\x86\Debug\BigInt.exe
 D:\Desktop\BigNum\BigInt\obj\x86\Debug\BigInt.pdb
+D:\github\C-\BigNum\BigInt\obj\x86\Debug\BigInt.exe
+D:\github\C-\BigNum\BigInt\obj\x86\Debug\BigInt.pdb
