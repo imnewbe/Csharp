@@ -1,0 +1,7 @@
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\bin\Debug\SelectStudent.exe
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\bin\Debug\SelectStudent.pdb
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\SelectStudent.Form1.resources
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\SelectStudent.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\SelectStudent.csproj.GenerateResource.Cache
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\SelectStudent.exe
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\SelectStudent.pdb

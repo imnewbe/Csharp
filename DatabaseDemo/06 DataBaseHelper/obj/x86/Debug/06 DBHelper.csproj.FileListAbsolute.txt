@@ -1,0 +1,7 @@
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\DBHelper.Properties.Resources.resources
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\06 DBHelper.csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\bin\Debug\DBHelper.exe.config
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\bin\Debug\DBHelper.exe
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\bin\Debug\DBHelper.pdb
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\DBHelper.exe
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\DBHelper.pdb

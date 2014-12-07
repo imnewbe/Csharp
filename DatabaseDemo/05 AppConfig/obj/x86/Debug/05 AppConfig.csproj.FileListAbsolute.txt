@@ -1,0 +1,20 @@
+D:\第9章 数据库应用开发\TestConnect\05 AppConfig\bin\Debug\05 AppConfig.exe.config
+D:\第9章 数据库应用开发\TestConnect\05 AppConfig\bin\Debug\05 AppConfig.exe
+D:\第9章 数据库应用开发\TestConnect\05 AppConfig\bin\Debug\05 AppConfig.pdb
+D:\第9章 数据库应用开发\TestConnect\05 AppConfig\obj\x86\Debug\05 AppConfig.exe
+D:\第9章 数据库应用开发\TestConnect\05 AppConfig\obj\x86\Debug\05 AppConfig.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\05 AppConfig\bin\Debug\05 AppConfig.exe.config
+C:\Users\bestnk\Desktop\DatabaseDemo\05 AppConfig\bin\Debug\05 AppConfig.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\05 AppConfig\bin\Debug\05 AppConfig.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\05 AppConfig\obj\x86\Debug\05 AppConfig.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\05 AppConfig\obj\x86\Debug\05 AppConfig.pdb
+E:\可视化程序设计\程序\DatabaseDemo\05 AppConfig\bin\Debug\05 AppConfig.exe.config
+E:\可视化程序设计\程序\DatabaseDemo\05 AppConfig\bin\Debug\05 AppConfig.exe
+E:\可视化程序设计\程序\DatabaseDemo\05 AppConfig\bin\Debug\05 AppConfig.pdb
+E:\可视化程序设计\程序\DatabaseDemo\05 AppConfig\obj\x86\Debug\05 AppConfig.exe
+E:\可视化程序设计\程序\DatabaseDemo\05 AppConfig\obj\x86\Debug\05 AppConfig.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\05 AppConfig\bin\Debug\05 AppConfig.exe.config
+C:\Users\Jianwei\Desktop\DatabaseDemo\05 AppConfig\bin\Debug\05 AppConfig.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\05 AppConfig\bin\Debug\05 AppConfig.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\05 AppConfig\obj\x86\Debug\05 AppConfig.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\05 AppConfig\obj\x86\Debug\05 AppConfig.pdb

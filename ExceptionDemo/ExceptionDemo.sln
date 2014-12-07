@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyException", "ApplicationException\MyException.csproj", "{3E9004D0-B60C-47E9-99D3-208E644159C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOutOfRange", "IndexOutOfRange\IndexOutOfRange.csproj", "{AE27261A-D68D-406B-9DAF-224A4788280E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideByZero", "DivideByZeroException\DivideByZero.csproj", "{3EB26886-6F1E-4F6C-AF0E-BB95BEA485B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9004D0-B60C-47E9-99D3-208E644159C4}.Debug|x86.ActiveCfg = Debug|x86
+		{3E9004D0-B60C-47E9-99D3-208E644159C4}.Debug|x86.Build.0 = Debug|x86
+		{3E9004D0-B60C-47E9-99D3-208E644159C4}.Release|x86.ActiveCfg = Release|x86
+		{3E9004D0-B60C-47E9-99D3-208E644159C4}.Release|x86.Build.0 = Release|x86
+		{AE27261A-D68D-406B-9DAF-224A4788280E}.Debug|x86.ActiveCfg = Debug|x86
+		{AE27261A-D68D-406B-9DAF-224A4788280E}.Debug|x86.Build.0 = Debug|x86
+		{AE27261A-D68D-406B-9DAF-224A4788280E}.Release|x86.ActiveCfg = Release|x86
+		{AE27261A-D68D-406B-9DAF-224A4788280E}.Release|x86.Build.0 = Release|x86
+		{3EB26886-6F1E-4F6C-AF0E-BB95BEA485B4}.Debug|x86.ActiveCfg = Debug|x86
+		{3EB26886-6F1E-4F6C-AF0E-BB95BEA485B4}.Debug|x86.Build.0 = Debug|x86
+		{3EB26886-6F1E-4F6C-AF0E-BB95BEA485B4}.Release|x86.ActiveCfg = Release|x86
+		{3EB26886-6F1E-4F6C-AF0E-BB95BEA485B4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

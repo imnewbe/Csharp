@@ -1,0 +1,27 @@
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\bin\Debug\DataBaseHelper.exe.config
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\DataBaseHelper.FrmMain.resources
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\DataBaseHelper.Properties.Resources.resources
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\06 DataBaseHelper.csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\bin\Debug\DataBaseHelper.exe
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\bin\Debug\DataBaseHelper.pdb
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\DataBaseHelper.exe
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\DataBaseHelper.pdb
+E:\可视化程序设计\程序\DatabaseDemo\DBHelper\obj\x86\Debug\06 DataBaseHelper.csprojResolveAssemblyReference.cache
+E:\可视化程序设计\程序\DatabaseDemo\06 DataBaseHelper\bin\Debug\DataBaseHelper.exe.config
+E:\可视化程序设计\程序\DatabaseDemo\06 DataBaseHelper\bin\Debug\DataBaseHelper.exe
+E:\可视化程序设计\程序\DatabaseDemo\06 DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+E:\可视化程序设计\程序\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\06 DataBaseHelper.csprojResolveAssemblyReference.cache
+E:\可视化程序设计\程序\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\DataBaseHelper.FrmMain.resources
+E:\可视化程序设计\程序\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\DataBaseHelper.Properties.Resources.resources
+E:\可视化程序设计\程序\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\06 DataBaseHelper.csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\DataBaseHelper.exe
+E:\可视化程序设计\程序\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\DataBaseHelper.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\06 DataBaseHelper\bin\Debug\DataBaseHelper.exe.config
+C:\Users\Jianwei\Desktop\DatabaseDemo\06 DataBaseHelper\bin\Debug\DataBaseHelper.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\06 DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\06 DataBaseHelper.csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\DataBaseHelper.FrmMain.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\DataBaseHelper.Properties.Resources.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\06 DataBaseHelper.csproj.GenerateResource.Cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\DataBaseHelper.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\06 DataBaseHelper\obj\x86\Debug\DataBaseHelper.pdb

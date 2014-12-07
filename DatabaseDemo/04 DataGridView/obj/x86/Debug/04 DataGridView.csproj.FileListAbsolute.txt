@@ -1,0 +1,37 @@
+D:\第9章 数据库应用开发\TestConnect\DataGridView\bin\Debug\DataGridView.exe.config
+D:\第9章 数据库应用开发\TestConnect\DataGridView\bin\Debug\DataGridView.exe
+D:\第9章 数据库应用开发\TestConnect\DataGridView\bin\Debug\DataGridView.pdb
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.DGVForm.resources
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\04 DataGridView.csproj.GenerateResource.Cache
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.exe
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.DGVForm.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.Properties.Resources.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\04 DataGridView.csproj.GenerateResource.Cache
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.pdb
+E:\可视化程序设计\程序\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.exe.config
+E:\可视化程序设计\程序\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.exe
+E:\可视化程序设计\程序\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.pdb
+E:\可视化程序设计\程序\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.DGVForm.resources
+E:\可视化程序设计\程序\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.Properties.Resources.resources
+E:\可视化程序设计\程序\DatabaseDemo\04 DataGridView\obj\x86\Debug\04 DataGridView.csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.exe
+E:\可视化程序设计\程序\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.pdb
+E:\可视化程序设计\程序\DatabaseDemo\04 DataGridView\obj\x86\Debug\04 DataGridView.csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\04 DataGridView.csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.DGVForm.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\04 DataGridView.csproj.GenerateResource.Cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.pdb
+E:\桌面\DatabaseDemo\04 DataGridView\bin\Debug\DataGridView.exe.config
+E:\桌面\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.exe
+E:\桌面\DatabaseDemo\04 DataGridView\obj\x86\Debug\DataGridView.pdb

@@ -1,0 +1,7 @@
+D:\第9章 数据库应用开发\TestConnect\TestConnect\bin\Debug\TestConnect.exe
+D:\第9章 数据库应用开发\TestConnect\TestConnect\bin\Debug\TestConnect.pdb
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\TestConnect.StatStudentForm.resources
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\TestConnect.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\StatStudent.csproj.GenerateResource.Cache
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\TestConnect.exe
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\TestConnect.pdb

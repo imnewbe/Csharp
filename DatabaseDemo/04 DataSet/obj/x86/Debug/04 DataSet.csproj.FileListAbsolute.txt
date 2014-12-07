@@ -1,0 +1,45 @@
+D:\第9章 数据库应用开发\TestConnect\04 DataSet\bin\Debug\04 DataSet.exe
+D:\第9章 数据库应用开发\TestConnect\04 DataSet\bin\Debug\04 DataSet.pdb
+D:\第9章 数据库应用开发\TestConnect\04 DataSet\obj\x86\Debug\_04_DataSet.Form1.resources
+D:\第9章 数据库应用开发\TestConnect\04 DataSet\obj\x86\Debug\_04_DataSet.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\04 DataSet\obj\x86\Debug\04 DataSet.csproj.GenerateResource.Cache
+D:\第9章 数据库应用开发\TestConnect\04 DataSet\obj\x86\Debug\04 DataSet.exe
+D:\第9章 数据库应用开发\TestConnect\04 DataSet\obj\x86\Debug\04 DataSet.pdb
+D:\第9章 数据库应用开发\TestConnect\04 DataSet\obj\x86\Debug\_04_DataSet.Form2.resources
+D:\第9章 数据库应用开发\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.exe
+D:\第9章 数据库应用开发\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataSet\bin\Debug\04 DataSet.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataSet\bin\Debug\04 DataSet.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.Form1.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.Form2.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.Properties.Resources.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\04 DataSet\bin\Debug\04 DataSet.exe
+E:\可视化程序设计\程序\DatabaseDemo\04 DataSet\bin\Debug\04 DataSet.pdb
+E:\可视化程序设计\程序\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.Form1.resources
+E:\可视化程序设计\程序\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.Properties.Resources.resources
+E:\可视化程序设计\程序\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.exe
+E:\可视化程序设计\程序\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.pdb
+E:\可视化程序设计\程序\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataSet\bin\Debug\04 DataSet.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataSet\bin\Debug\04 DataSet.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.Form1.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.Properties.Resources.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.csproj.GenerateResource.Cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.pdb
+E:\桌面\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.exe
+E:\桌面\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.pdb
+E:\桌面\DatabaseDemo\04 DataSet\bin\Debug\04 DataSet.exe
+E:\桌面\DatabaseDemo\04 DataSet\bin\Debug\04 DataSet.pdb
+E:\桌面\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.csprojResolveAssemblyReference.cache
+E:\桌面\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.Form1.resources
+E:\桌面\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.Properties.Resources.resources
+E:\桌面\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.csproj.GenerateResource.Cache
+E:\桌面\DatabaseDemo\04 DataSet\obj\x86\Debug\_04_DataSet.FrmStudent.resources
+C:\Users\yoyoyo\Desktop\C#实验各种题\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.exe
+C:\Users\yoyoyo\Desktop\C#实验各种题\DatabaseDemo\04 DataSet\obj\x86\Debug\04 DataSet.pdb

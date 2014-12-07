@@ -1,0 +1,7 @@
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\ApplicationException\bin\Debug\MyApplication.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\ApplicationException\bin\Debug\MyApplication.pdb
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\ApplicationException\obj\x86\Debug\MyException.FrmMain.resources
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\ApplicationException\obj\x86\Debug\MyApplication.Properties.Resources.resources
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\ApplicationException\obj\x86\Debug\MyException.csproj.GenerateResource.Cache
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\ApplicationException\obj\x86\Debug\MyApplication.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\ApplicationException\obj\x86\Debug\MyApplication.pdb

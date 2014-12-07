@@ -1,0 +1,7 @@
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\LoadGrade.MainForm.resources
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\LoadGrade.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\AddStudent.csproj.GenerateResource.Cache
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\LoadGrade.exe
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\bin\Debug\LoadGrade.exe
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\bin\Debug\LoadGrade.pdb
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\LoadGrade.pdb

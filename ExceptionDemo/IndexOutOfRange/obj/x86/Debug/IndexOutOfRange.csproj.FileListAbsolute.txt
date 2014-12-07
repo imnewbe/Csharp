@@ -1,0 +1,12 @@
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\IndexOutOfRange\bin\Debug\IndexOutOfRange.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\IndexOutOfRange\bin\Debug\IndexOutOfRange.pdb
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.pdb
+E:\桌面\Desktop\C#\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.exe
+E:\桌面\Desktop\C#\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.pdb
+C:\Users\yoyoyo\Documents\Tencent Files\2862315028\FileRecv\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.exe
+C:\Users\yoyoyo\Documents\Tencent Files\2862315028\FileRecv\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.pdb
+C:\Users\yoyoyo\Desktop\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.exe
+C:\Users\yoyoyo\Desktop\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.pdb
+C:\Users\yoyoyo\Desktop\C#实验各种题\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.exe
+C:\Users\yoyoyo\Desktop\C#实验各种题\ExceptionDemo\IndexOutOfRange\obj\x86\Debug\IndexOutOfRange.pdb

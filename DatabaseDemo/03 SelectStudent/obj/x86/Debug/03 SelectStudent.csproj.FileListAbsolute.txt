@@ -1,0 +1,30 @@
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\SelectStudent.exe
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\SelectStudent.pdb
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\bin\Debug\SelectStudent.exe
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\bin\Debug\SelectStudent.pdb
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\SelectStudent.SelectStudentForm.resources
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\SelectStudent.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\SelectStudent\obj\x86\Debug\03 SelectStudent.csproj.GenerateResource.Cache
+C:\Users\bestnk\Desktop\DatabaseDemo\03 SelectStudent\bin\Debug\SelectStudent.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\03 SelectStudent\bin\Debug\SelectStudent.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.SelectStudentForm.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.Properties.Resources.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\03 SelectStudent.csproj.GenerateResource.Cache
+C:\Users\bestnk\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.pdb
+E:\可视化程序设计\程序\DatabaseDemo\03 SelectStudent\bin\Debug\SelectStudent.exe
+E:\可视化程序设计\程序\DatabaseDemo\03 SelectStudent\bin\Debug\SelectStudent.pdb
+E:\可视化程序设计\程序\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.SelectStudentForm.resources
+E:\可视化程序设计\程序\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.Properties.Resources.resources
+E:\可视化程序设计\程序\DatabaseDemo\03 SelectStudent\obj\x86\Debug\03 SelectStudent.csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.exe
+E:\可视化程序设计\程序\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\03 SelectStudent\bin\Debug\SelectStudent.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\03 SelectStudent\bin\Debug\SelectStudent.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.SelectStudentForm.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.Properties.Resources.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\03 SelectStudent.csproj.GenerateResource.Cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.pdb
+E:\桌面\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.exe
+E:\桌面\DatabaseDemo\03 SelectStudent\obj\x86\Debug\SelectStudent.pdb

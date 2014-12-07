@@ -1,0 +1,50 @@
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).pdb
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Login.resources
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.MainForm.resources
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csproj.GenerateResource.Cache
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).exe
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).pdb
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csprojResolveAssemblyReference.cache
+D:\第9章 数据库应用开发\TestConnect\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe.config
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe.config
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csprojResolveAssemblyReference.cache
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Login.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.MainForm.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Properties.Resources.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csproj.GenerateResource.Cache
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).exe
+C:\Users\bestnk\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).pdb
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe.config
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).pdb
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csprojResolveAssemblyReference.cache
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Login.resources
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.MainForm.resources
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Properties.Resources.resources
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).exe
+E:\可视化程序设计\程序\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe.config
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Login.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.MainForm.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Properties.Resources.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csproj.GenerateResource.Cache
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe.config
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).exe
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).pdb
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).exe
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\bin\Debug\实验 数据库开发(一).pdb
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csprojResolveAssemblyReference.cache
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Login.resources
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.MainForm.resources
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验_数据库开发_一_.Properties.Resources.resources
+E:\桌面\DatabaseDemo\实验 数据库开发(一)\obj\x86\Debug\实验 数据库开发(一).csproj.GenerateResource.Cache

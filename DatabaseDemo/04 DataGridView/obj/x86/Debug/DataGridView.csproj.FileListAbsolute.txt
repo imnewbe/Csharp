@@ -1,0 +1,9 @@
+D:\第9章 数据库应用开发\TestConnect\DataGridView\bin\Debug\DataGridView.exe.config
+D:\第9章 数据库应用开发\TestConnect\DataGridView\bin\Debug\DataGridView.exe
+D:\第9章 数据库应用开发\TestConnect\DataGridView\bin\Debug\DataGridView.pdb
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.csproj.GenerateResource.Cache
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.exe
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.pdb
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.csprojResolveAssemblyReference.cache
+D:\第9章 数据库应用开发\TestConnect\DataGridView\obj\x86\Debug\DataGridView.DGVForm.resources

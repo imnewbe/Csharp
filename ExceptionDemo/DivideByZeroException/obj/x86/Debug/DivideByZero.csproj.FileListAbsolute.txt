@@ -1,0 +1,4 @@
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\DivideByZeroException\bin\Debug\DivideByZero.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\DivideByZeroException\bin\Debug\DivideByZero.pdb
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\DivideByZeroException\obj\x86\Debug\DivideByZero.exe
+c:\users\jianwei\documents\visual studio 2010\Projects\ExceptionDemo\DivideByZeroException\obj\x86\Debug\DivideByZero.pdb

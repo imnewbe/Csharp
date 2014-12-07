@@ -1,0 +1,30 @@
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\bin\Debug\LoadGrade.exe
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\bin\Debug\LoadGrade.pdb
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\LoadGrade.MainForm.resources
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\LoadGrade.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\02 AddStudent.csproj.GenerateResource.Cache
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\LoadGrade.exe
+D:\第9章 数据库应用开发\TestConnect\LoadGrade\obj\x86\Debug\LoadGrade.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\02 AddStudent\bin\Debug\LoadGrade.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\02 AddStudent\bin\Debug\LoadGrade.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.MainForm.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.Properties.Resources.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\02 AddStudent.csproj.GenerateResource.Cache
+C:\Users\bestnk\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.pdb
+E:\可视化程序设计\程序\DatabaseDemo\02 AddStudent\bin\Debug\LoadGrade.exe
+E:\可视化程序设计\程序\DatabaseDemo\02 AddStudent\bin\Debug\LoadGrade.pdb
+E:\可视化程序设计\程序\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.MainForm.resources
+E:\可视化程序设计\程序\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.Properties.Resources.resources
+E:\可视化程序设计\程序\DatabaseDemo\02 AddStudent\obj\x86\Debug\02 AddStudent.csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.exe
+E:\可视化程序设计\程序\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.pdb
+E:\可视化程序设计\程序\DatabaseDemo\02 AddStudent\obj\x86\Debug\02 AddStudent.csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\02 AddStudent\bin\Debug\LoadGrade.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\02 AddStudent\bin\Debug\LoadGrade.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\02 AddStudent.csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.MainForm.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.Properties.Resources.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\02 AddStudent.csproj.GenerateResource.Cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\02 AddStudent\obj\x86\Debug\LoadGrade.pdb

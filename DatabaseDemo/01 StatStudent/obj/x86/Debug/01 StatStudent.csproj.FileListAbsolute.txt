@@ -1,0 +1,30 @@
+D:\第9章 数据库应用开发\TestConnect\TestConnect\bin\Debug\TestConnect.exe
+D:\第9章 数据库应用开发\TestConnect\TestConnect\bin\Debug\TestConnect.pdb
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\TestConnect.StatStudentForm.resources
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\TestConnect.Properties.Resources.resources
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\01 StatStudent.csproj.GenerateResource.Cache
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\TestConnect.exe
+D:\第9章 数据库应用开发\TestConnect\TestConnect\obj\x86\Debug\TestConnect.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\01 StatStudent\bin\Debug\TestConnect.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\01 StatStudent\bin\Debug\TestConnect.pdb
+C:\Users\bestnk\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.StatStudentForm.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.Properties.Resources.resources
+C:\Users\bestnk\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\01 StatStudent.csproj.GenerateResource.Cache
+C:\Users\bestnk\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.exe
+C:\Users\bestnk\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.pdb
+E:\可视化程序设计\程序\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.exe
+E:\可视化程序设计\程序\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.pdb
+E:\可视化程序设计\程序\DatabaseDemo\01 StatStudent\bin\Debug\TestConnect.exe
+E:\可视化程序设计\程序\DatabaseDemo\01 StatStudent\bin\Debug\TestConnect.pdb
+E:\可视化程序设计\程序\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.StatStudentForm.resources
+E:\可视化程序设计\程序\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.Properties.Resources.resources
+E:\可视化程序设计\程序\DatabaseDemo\01 StatStudent\obj\x86\Debug\01 StatStudent.csproj.GenerateResource.Cache
+E:\可视化程序设计\程序\DatabaseDemo\01 StatStudent\obj\x86\Debug\01 StatStudent.csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\01 StatStudent\bin\Debug\TestConnect.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\01 StatStudent\bin\Debug\TestConnect.pdb
+C:\Users\Jianwei\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\01 StatStudent.csprojResolveAssemblyReference.cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.StatStudentForm.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.Properties.Resources.resources
+C:\Users\Jianwei\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\01 StatStudent.csproj.GenerateResource.Cache
+C:\Users\Jianwei\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.exe
+C:\Users\Jianwei\Desktop\DatabaseDemo\01 StatStudent\obj\x86\Debug\TestConnect.pdb
