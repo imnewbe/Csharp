@@ -1,0 +1,11 @@
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\bin\Debug\None.exe.config
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\bin\Debug\None.exe
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\bin\Debug\None.pdb
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\bin\Debug\IPAddressControl.dll
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\bin\Debug\IPAddressControl.pdb
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\obj\Debug\None.csprojResolveAssemblyReference.cache
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\obj\Debug\None.Form1.resources
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\obj\Debug\None.Properties.Resources.resources
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\obj\Debug\None.csproj.GenerateResource.Cache
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\obj\Debug\None.exe
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Trojan\None\obj\Debug\None.pdb

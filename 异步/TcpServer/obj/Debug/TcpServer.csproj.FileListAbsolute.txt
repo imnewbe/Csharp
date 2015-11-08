@@ -1,0 +1,9 @@
+c:\users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpServer\bin\Debug\TcpServer.exe.config
+c:\users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpServer\bin\Debug\TcpServer.exe
+c:\users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpServer\bin\Debug\TcpServer.pdb
+c:\users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+c:\users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpServer\obj\Debug\TcpServer.server.resources
+c:\users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+c:\users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+c:\users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpServer\obj\Debug\TcpServer.exe
+c:\users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpServer\obj\Debug\TcpServer.pdb

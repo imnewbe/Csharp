@@ -1,0 +1,16 @@
+G:\快盘\南开监控平台\NKMS\IPAddressControl\bin\Debug\IPAddressControl.dll
+G:\快盘\南开监控平台\NKMS\IPAddressControl\bin\Debug\IPAddressControl.pdb
+G:\快盘\南开监控平台\NKMS\IPAddressControl\obj\Debug\ResolveAssemblyReference.cache
+G:\快盘\南开监控平台\NKMS\IPAddressControl\obj\Debug\IPAddressControl.IPAddressBox.resources
+G:\快盘\南开监控平台\NKMS\IPAddressControl\obj\Debug\IPAddressControl.Properties.Resources.resources
+G:\快盘\南开监控平台\NKMS\IPAddressControl\obj\Debug\IPAddressControl.csproj.GenerateResource.Cache
+G:\快盘\南开监控平台\NKMS\IPAddressControl\obj\Debug\IPAddressControl.dll
+G:\快盘\南开监控平台\NKMS\IPAddressControl\obj\Debug\IPAddressControl.pdb
+D:\NKMS\IPAddressControl\bin\Debug\IPAddressControl.dll
+D:\NKMS\IPAddressControl\bin\Debug\IPAddressControl.pdb
+D:\NKMS\IPAddressControl\obj\Debug\ResolveAssemblyReference.cache
+D:\NKMS\IPAddressControl\obj\Debug\IPAddressControl.IPAddressBox.resources
+D:\NKMS\IPAddressControl\obj\Debug\IPAddressControl.Properties.Resources.resources
+D:\NKMS\IPAddressControl\obj\Debug\IPAddressControl.csproj.GenerateResource.Cache
+D:\NKMS\IPAddressControl\obj\Debug\IPAddressControl.dll
+D:\NKMS\IPAddressControl\obj\Debug\IPAddressControl.pdb

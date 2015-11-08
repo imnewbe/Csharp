@@ -1,0 +1,5 @@
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\TcpClient\TCPserver\bin\Debug\TCPserver.exe.config
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\TcpClient\TCPserver\bin\Debug\TCPserver.exe
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\TcpClient\TCPserver\bin\Debug\TCPserver.pdb
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\TcpClient\TCPserver\obj\Debug\TCPserver.exe
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\TcpClient\TCPserver\obj\Debug\TCPserver.pdb

@@ -1,0 +1,11 @@
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\bin\Debug\Client.exe.config
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\bin\Debug\Client.exe
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\bin\Debug\Client.pdb
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\obj\Debug\Client.Lgoin.resources
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\obj\Debug\Client.exe
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\obj\Debug\Client.pdb
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\obj\Debug\Client.Client.resources
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\UdpRemote\Client\obj\Debug\Client.CPwd.resources

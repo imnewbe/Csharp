@@ -1,0 +1,10 @@
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\bin\Debug\Client.exe.config
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\obj\Debug\Client.Login.resources
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\obj\Debug\Client.MainFrm.resources
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\bin\Debug\Client.exe
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\bin\Debug\Client.pdb
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\obj\Debug\Client.exe
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\obj\Debug\Client.pdb
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

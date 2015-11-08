@@ -1,0 +1,5 @@
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Udp\udpClient\bin\Debug\udpClient.exe.config
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Udp\udpClient\obj\Debug\udpClient.csprojResolveAssemblyReference.cache
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Udp\udpClient\obj\Debug\udpClient.Login.resources
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Udp\udpClient\obj\Debug\udpClient.Properties.Resources.resources
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\Udp\udpClient\obj\Debug\udpClient.csproj.GenerateResource.Cache

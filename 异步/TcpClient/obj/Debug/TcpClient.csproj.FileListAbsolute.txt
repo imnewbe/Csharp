@@ -1,0 +1,9 @@
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpClient\bin\Debug\TcpClient.exe.config
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpClient\obj\Debug\TcpClient.csprojResolveAssemblyReference.cache
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpClient\obj\Debug\TcpClient.Properties.Resources.resources
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpClient\obj\Debug\TcpClient.csproj.GenerateResource.Cache
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpClient\obj\Debug\TcpClient.tcpClient.resources
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpClient\bin\Debug\TcpClient.exe
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpClient\bin\Debug\TcpClient.pdb
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpClient\obj\Debug\TcpClient.exe
+C:\Users\yoyoyo\documents\visual studio 2012\Projects\异步\TcpClient\obj\Debug\TcpClient.pdb
