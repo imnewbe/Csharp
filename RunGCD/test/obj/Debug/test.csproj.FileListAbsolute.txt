@@ -1,0 +1,7 @@
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\test\bin\Debug\test.exe
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\test\bin\Debug\test.pdb
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\test\obj\Debug\test.Form1.resources
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\test\obj\Debug\test.exe
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\test\obj\Debug\test.pdb

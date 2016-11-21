@@ -1,0 +1,8 @@
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\client\bin\Debug\client.exe
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\client\bin\Debug\client.pdb
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\client\obj\Debug\client.Form1.resources
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\client\obj\Debug\client.exe
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\client\obj\Debug\client.pdb
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\client\obj\Debug\client.csprojResolveAssemblyReference.cache

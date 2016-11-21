@@ -1,0 +1,8 @@
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\tttsss\bin\Debug\tttsss.exe
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\tttsss\bin\Debug\tttsss.pdb
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\tttsss\obj\Debug\tttsss.csprojResolveAssemblyReference.cache
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\tttsss\obj\Debug\tttsss.Server.resources
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\tttsss\obj\Debug\tttsss.Properties.Resources.resources
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\tttsss\obj\Debug\tttsss.csproj.GenerateResource.Cache
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\tttsss\obj\Debug\tttsss.exe
+C:\Users\nima\documents\visual studio 2012\Projects\RunGCD\tttsss\obj\Debug\tttsss.pdb
